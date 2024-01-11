@@ -5,7 +5,7 @@ nav: true
 
 Web of Science has the world’s leading scholarly literature in the sciences, social sciences, arts, and humanities. The database includes proceedings of international conferences, symposia, seminars, colloquia, workshops, and conventions. Click [this link](https://uidaho.idm.oclc.org/login?url=http://webofknowledge.com/UA){:target="_blank" rel="noopener"} to access Web of Science.
 
-In the search box, type in your keyword search terms. For instance, if your topic is **Separation of dairy cow from calf**, you can use keyword search terms *cow AND calf AND separation*. You can sort the results using the following options:
+In the search box, type in your keyword search terms. Then, you can sort the results using the following options:
 
 <dl>
   <dt>Citations</dt>

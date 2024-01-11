@@ -112,6 +112,6 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    </p>
 </html>
 
-{% capture text %}You can check out [this guide](https://libguides.uidaho.edu/boolean){:target="_blank" rel="noopener"} to learn more about Boolean logic. Also note that all databases are different. You can check the help section of your chosen database to see what boolean operators are accepted and what symbols they used.
+{% capture text %}You can check out [this guide](https://libguides.uidaho.edu/boolean){:target="_blank" rel="noopener"} to learn more about Boolean logic. Also note that all databases are different. You can check the help section of your chosen database to see what boolean operators are accepted and what symbols they use.
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
