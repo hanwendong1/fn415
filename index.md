@@ -57,7 +57,7 @@ I created this website for students enrolled in FN 415/515 *Advanced Nutrition* 
 ### Learning Outcomes
 After reviewing the contents of this guide, you will be able to:
 1. Apply Boolean logic to search strategy
-2. Select journals and databases for research in food science
+2. Select databases for research in food and nutrition
 3. Find scholarly sources on chosen topic
 4. Evaluate and revise search strategy based on search results
 
