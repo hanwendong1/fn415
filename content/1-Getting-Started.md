@@ -17,7 +17,7 @@ When conducting college-level research, there is a general process to follow:
 
 {% include card.md text=text header="Research Process" %}
 
-Ideally, you chose a topic you were somewhat familiar with or interested in researching. To get more information and ideas on the topic you selected, use <a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>, or <a href="https://www.wikipedia.org/" target="_blank" rel="noopener">Wikipedia</a>. Note that you can't cite a Wikipedia article or most websites from a Google search. You can, however, find some keywords that you can use or some peer-reviewed literature (references at the bottom of a Wikipedia article, for instance) and other linked sources to gray literature and scholarly literature.
+Typically, you want to choose a topic you are somewhat familiar with or interested in researching. To get more information and ideas on topics, use <a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>, or <a href="https://www.wikipedia.org/" target="_blank" rel="noopener">Wikipedia</a>. Note that you can't cite a Wikipedia article or most websites from a Google search. You can, however, find some keywords that you can use or some peer-reviewed literature (references at the bottom of a Wikipedia article, for instance) and other linked sources to gray literature and scholarly literature.
 
 What are the differences among popular, scholarly, and gray literature? Below are the characteristics of each source that can help you differentiate from others:
 * Popular/General Interest (news, media, magazines)
@@ -102,7 +102,7 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Left">an?emia [for anemia or anaemia]</td>
          </tr>
           <tr>
-            <th style="text-align:Center">( )</th>
+            <th style="text-align:Center">(   )</th>
             <td style="text-align:Left">Results include the phrase with the order of relationships organized</td>
             <td style="text-align:Left">"iron deficiency anemia" AND (growth OR development)</td>
          </tr>
