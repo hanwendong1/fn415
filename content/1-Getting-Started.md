@@ -17,7 +17,7 @@ When conducting college-level research, there is a general process to follow:
 
 {% include card.md text=text header="Research Process" %}
 
-Since you have already selected your topic, this guide will focus on the other aspects of the research process. Ideally, you chose a topic you were somewhat familiar with or interested in researching. To get more information and ideas on the topic you selected, use <a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>, or <a href="https://www.wikipedia.org/" target="_blank" rel="noopener">Wikipedia</a>. Note that you can't cite a Wikipedia article or most websites from a Google search. You can, however, find some keywords that you can use or some peer-reviewed literature (references at the bottom of a Wikipedia article, for instance) and other linked sources to gray literature and scholarly literature.
+Ideally, you chose a topic you were somewhat familiar with or interested in researching. To get more information and ideas on the topic you selected, use <a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>, or <a href="https://www.wikipedia.org/" target="_blank" rel="noopener">Wikipedia</a>. Note that you can't cite a Wikipedia article or most websites from a Google search. You can, however, find some keywords that you can use or some peer-reviewed literature (references at the bottom of a Wikipedia article, for instance) and other linked sources to gray literature and scholarly literature.
 
 What are the differences among popular, scholarly, and gray literature? Below are the characteristics of each source that can help you differentiate from others:
 * Popular/General Interest (news, media, magazines)
@@ -67,44 +67,44 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    <body>
       <table>
          <tr>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Boolean Operator</th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Explanation</th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Example</th>
+            <th style="background-color: #060400; color: #f1b300; text-align:Center">Boolean Operator</th>
+            <th style="background-color: #060400; color: #f1b300; text-align:Center">Explanation</th>
+            <th style="background-color: #060400; color: #f1b300; text-align:Center">Example</th>
          </tr>
          <tr>
             <th style="text-align:Center">AND</th>
             <td style="text-align:Left">Each result contains all search terms</td>
-            <td style="text-align:Left">Antibiotic AND farm</td>
+            <td style="text-align:Left">Zinc AND cold</td>
          </tr>
          <tr>
             <th style="text-align:Center">OR</th>
             <td style="text-align:Left">Each result contains at least one search term</td>
-            <td style="text-align:Left">production OR lactation OR secretion OR yield</td>
+            <td style="text-align:Left">energy OR fatique OR weakness</td>
          </tr>
          <tr>
             <th style="text-align:Center">" "</th>
             <td style="text-align:Left">Results must include search terms in the defined order</td>
-            <td style="text-align:Left">“bovine somatotropin” OR “bovine growth hormone”</td>
+            <td style="text-align:Left">"iron deficiency anemia"</td>
          </tr>
           <tr>
             <th style="text-align:Center">NOT</th>
             <td style="text-align:Left">Results do not contain the specified terms</td>
-            <td style="text-align:Left">“skim milk” NOT “powdered milk”</td>
+            <td style="text-align:Left">B6 NOT B12</td>
          </tr>
          <tr>
             <th style="text-align:Center">*</th>
             <td style="text-align:Left">Results can include search terms with different endings of the root word</td>
-            <td style="text-align:Left">Lactat* [for lactate, lactation, lactating, etc.]</td>
+            <td style="text-align:Left">depress* [for depression, depressive, depressed, etc.]</td>
          </tr>         
          <tr>
             <th style="text-align:Center">?</th>
             <td style="text-align:Left">Results include words with alternative spellings</td>
-            <td style="text-align:Left">“pasteuri?ed milk”</td>
+            <td style="text-align:Left">an?emia [for anemia or anaemia]</td>
          </tr>
           <tr>
             <th style="text-align:Center">( )</th>
             <td style="text-align:Left">Results include the phrase with the order of relationships organized</td>
-            <td style="text-align:Left">(“low-fat milk” OR “skim milk”) AND “whole milk” AND consumption</td>
+            <td style="text-align:Left">"iron deficiency anemia" AND (growth OR development)</td>
          </tr>
       </table>
    </body>
@@ -112,6 +112,6 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    </p>
 </html>
 
-{% capture text %}You can check out [this guide](https://libguides.uidaho.edu/boolean){:target="_blank" rel="noopener"} to learn more about Boolean logic.
+{% capture text %}You can check out [this guide](https://libguides.uidaho.edu/boolean){:target="_blank" rel="noopener"} to learn more about Boolean logic. Also note that all databases are different. You can check the help section of your chosen database to see what boolean operators are accepted and what symbols they used.
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
