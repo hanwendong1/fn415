@@ -13,7 +13,7 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
     <div class="card">
            <h5 class="card-header">Hanwen Dong</h5> 
       <div class="card-body">
-        <p class="card-text">Contact me if you have any questions about this website or finding resources related to Animal, Veterinary and Food Sciences.<br />
+        <p class="card-text">Contact me if you have any questions about this website or finding resources related to food and nutrition.<br />
           <br /> 
 </p>
         <p> </p>
@@ -40,21 +40,25 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
  <p> 
 </p>
 ### What is This Website for?
-I created this website for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class. The assignment requires identifying a topic for current topic debate and gathering research information (consumer’s perception of the subject as well as scientific-based knowledge) that either supports or refutes the issue. Possible topics include: 
-- Use of bST (growth hormone) to increase milk production
-- Low-fat vs. whole milk consumption
-- Organic vs. conventional farming
-- Consumption of animal milk vs. plant-based milk
-- Antibiotic use on farm
-- Consumption of pasteurized milk vs. raw milk
-- Contribution of dairy industry to greenhouse gases
-- Separation of dairy cow from calf
+I created this website for students enrolled in FN 415/515 *Advanced Nutrition* class. The assignment requires identifying a micronutrient and writing three annotated bibliography on the micronutrient. Possible micronutrient and related health conditions topics include: 
+- Iron deficiency anemia & growth
+- Calcium & bone health
+- B vitamins & energy
+ - Thiamine
+ - B12
+- Zinc & common colds
+-	Zinc & cancer prevention
+-	Magnesium & sleep
+-	Vitamin D & depression
+-	Vitamin C & COVID treatments 
+-	Vitamin C & common colds
+
 
 ### Learning Outcomes
 After reviewing the contents of this guide, you will be able to:
 1. Apply Boolean logic to search strategy
-2. Select journals and databases for research in dairy science
-3. Find popular and scholarly sources on chosen topic
+2. Select journals and databases for research in food science
+3. Find scholarly sources on chosen topic
 4. Evaluate and revise search strategy based on search results
 
 ------
