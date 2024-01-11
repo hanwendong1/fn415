@@ -44,8 +44,8 @@ I created this website for students enrolled in FN 415/515 *Advanced Nutrition* 
 - Iron deficiency anemia & growth
 - Calcium & bone health
 - B vitamins & energy
- - Thiamine
- - B12
+  - Thiamine
+  - B12
 - Zinc & common colds
 -	Zinc & cancer prevention
 -	Magnesium & sleep
