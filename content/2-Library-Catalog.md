@@ -3,7 +3,7 @@ title: Library Catalog
 nav: true
 ---
 
-Click [this link](https://www.lib.uidaho.edu/){:target="_blank" rel="noopener"} to access the catalog. In the search box, type in your keyword search terms. For instance, if your topic is **Iron deficiency anemia & growth**, you can use *"iron deficiency anemia" AND growth* as your keyword search terms. 
+Click [this link](https://www.lib.uidaho.edu/){:target="_blank" rel="noopener"} to access the catalog. In the search box, type in your keyword search terms. For instance, if your topic is **iron deficiency anemia & growth**, you can use *"iron deficiency anemia" AND growth* as your keyword search terms. 
 
 
 Refine results by navigating to the left to add filters to the search results. For example, you can check the box to narrow down the search to “Peer-reviewed journals" and "Articles" and choose a specific date range.

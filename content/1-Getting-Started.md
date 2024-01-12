@@ -10,8 +10,9 @@ When conducting college-level research, there is a general process to follow:
 1. Select topic
 2. Use Boolean logic to expand or narrow key concepts or keywords
 3. Select a database
-4. Evaluate and revise the search strategy
-5. Choose items and find full-text online or in print
+4. Conduct searches
+5. Evaluate and revise the search strategy
+6. Choose items and find full-text online or in print
 
 {% endcapture %}
 

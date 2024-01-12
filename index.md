@@ -39,6 +39,7 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
 </div>
  <p> 
 </p>
+
 ### What is This Website for?
 I created this website for students enrolled in FN 415/515 *Advanced Nutrition* class. The assignment requires identifying a micronutrient and writing three annotated bibliography on the micronutrient. Possible micronutrient and related health conditions topics include: 
 - Iron deficiency anemia & growth
@@ -53,13 +54,11 @@ I created this website for students enrolled in FN 415/515 *Advanced Nutrition* 
 -	Vitamin C & COVID treatments 
 -	Vitamin C & common colds
 
-
 ### Learning Outcomes
 After reviewing the contents of this guide, you will be able to:
 1. Apply Boolean logic to search strategy
 2. Select databases for research in food and nutrition
 3. Find scholarly sources on chosen topic
-4. Evaluate and revise search strategy based on search results
 
 ------
 {% include toc.html %}
