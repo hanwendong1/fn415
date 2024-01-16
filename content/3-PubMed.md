@@ -11,6 +11,6 @@ After typing and searching your search terms, you can apply additional filters o
 
 PubMed also has another feature called MeSH (Medical Subject Headings) Database where MeSH are terms that PubMed uses to tag articles with. While keywords are good for quick searching, MeSH are great for precise searching as well as finding established concepts, synonyms, and alternate spellings.
 
-{% include figure.html img="mesh.png" alt="MeSH Database in PubMed" width="50%" %}
+{% include figure.html img="mesh.png" alt="MeSH Database in PubMed" width="100%" %}
 
 {% include figure.html img="meshsearch.png" alt="MeSH Example" width="100%" %}
